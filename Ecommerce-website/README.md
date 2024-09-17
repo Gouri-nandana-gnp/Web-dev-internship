@@ -21,4 +21,4 @@ This is a simple implementation of the Connect 4 game. Players take turns droppi
 To run the game locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/web-dev-internship.git
+   git clone https://github.com/Gouri-nandana-gnp/web-dev-internship.git
