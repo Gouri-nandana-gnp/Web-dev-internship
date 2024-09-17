@@ -1,16 +1,17 @@
-# Connect 4 Game
+```markdown
+# E-commerce Website
 
-This is a simple implementation of the Connect 4 game. Players take turns dropping colored discs into a vertical grid, with the goal of connecting four discs in a row.
+A basic e-commerce website that includes product listings, a shopping cart, and checkout functionality.
 
 ## Features
-- Two-player mode (Red vs Yellow)
-- Click-based interaction for placing discs
-- Basic win detection
+- Product listing
+- Shopping cart functionality
+- Checkout process
 
-## How to Play
+## How to Use
 1. Clone the repository.
-2. Navigate to the `connect4-game` directory.
-3. Open `index.html` in a web browser to start playing.
+2. Navigate to the `ecommerce-website` directory.
+3. Open `index.html` in a web browser.
 
 ## Technologies Used
 - HTML
@@ -18,7 +19,7 @@ This is a simple implementation of the Connect 4 game. Players take turns droppi
 - JavaScript
 
 ## Getting Started
-To run the game locally:
+To run the website locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Gouri-nandana-gnp/web-dev-internship.git
