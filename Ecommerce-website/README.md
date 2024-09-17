@@ -1,4 +1,3 @@
-```markdown
 # E-commerce Website
 
 A basic e-commerce website that includes product listings, a shopping cart, and checkout functionality.
